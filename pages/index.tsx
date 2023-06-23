@@ -43,7 +43,7 @@ export default function Home({ restaurants }: { restaurants: string[] }) {
           <div className="border-l border-gray-300 dark:border-gray-700">
             <div className="ml-8 mt-8">
               {restaurants.map((slug: string) => (
-                <div className="flex flex-col">
+                <div key={slug} className="flex flex-col">
                   <Link href={`/restaurants/${slug}`}>
                     <a className={`text-xl font-semibold`}>
                       {slug
