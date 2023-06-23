@@ -1,0 +1,72 @@
+{
+    "tandoori chicken sub": {
+        "average_rating": 4.12,
+        "average_ai_rating": 75.488,
+        "review_count": 50
+    },
+    "hero pizza": {
+        "average_rating": 3.9615384615384617,
+        "average_ai_rating": 73.9076923076923,
+        "review_count": 26
+    },
+    "chicken salad": {
+        "average_rating": 4.153846153846154,
+        "average_ai_rating": 72.75384615384615,
+        "review_count": 13
+    },
+    "3 idiots pizza": {
+        "average_rating": 4.15625,
+        "average_ai_rating": 71.8125,
+        "review_count": 32
+    },
+    "butter chicken sub": {
+        "average_rating": 3.8,
+        "average_ai_rating": 69.48,
+        "review_count": 25
+    },
+    "nachos": {
+        "average_rating": 3.8333333333333335,
+        "average_ai_rating": 64.23333333333333,
+        "review_count": 12
+    },
+    "cheese pizza": {
+        "average_rating": 3.272727272727273,
+        "average_ai_rating": 56.2,
+        "review_count": 11
+    },
+    "dhoom pizza": {
+        "average_rating": 3.25,
+        "average_ai_rating": 55.083333333333336,
+        "review_count": 12
+    },
+    "buffalo wings": {
+        "average_rating": 3.142857142857143,
+        "average_ai_rating": 48.285714285714285,
+        "review_count": 7
+    },
+    "garlic cheese bread": {
+        "average_rating": 3.6666666666666665,
+        "average_ai_rating": 48.1,
+        "review_count": 6
+    },
+    "shahi paneer sub": {
+        "average_rating": 3.1666666666666665,
+        "average_ai_rating": 45.53333333333333,
+        "review_count": 6
+    },
+    "don": {
+        "average_rating": 2.888888888888889,
+        "average_ai_rating": 43.51111111111111,
+        "review_count": 9
+    },
+    "mozzarella sticks": {
+        "average_rating": 2.4,
+        "average_ai_rating": 38.88,
+        "review_count": 5
+    },
+    "roast beef sub": {
+        "average_rating": 2.4285714285714284,
+        "average_ai_rating": 27.02857142857143,
+        "review_count": 7
+    }
+}

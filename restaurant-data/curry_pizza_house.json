@@ -1,0 +1,92 @@
+{
+    "mexican": {
+        "average_rating": 4.8,
+        "average_ai_rating": 93.96000000000001,
+        "review_count": 5
+    },
+    "tandoori wings": {
+        "average_rating": 4.8,
+        "average_ai_rating": 90.64,
+        "review_count": 10
+    },
+    "desi garlic sticks": {
+        "average_rating": 4.615384615384615,
+        "average_ai_rating": 88.56923076923077,
+        "review_count": 13
+    },
+    "mango lassi": {
+        "average_rating": 4.454545454545454,
+        "average_ai_rating": 86.0909090909091,
+        "review_count": 11
+    },
+    "aloo chaat": {
+        "average_rating": 4.666666666666667,
+        "average_ai_rating": 85.46666666666667,
+        "review_count": 6
+    },
+    "achari gobhi": {
+        "average_rating": 4.7,
+        "average_ai_rating": 84.5,
+        "review_count": 10
+    },
+    "tandoori chicken": {
+        "average_rating": 4.384615384615385,
+        "average_ai_rating": 82.52307692307693,
+        "review_count": 26
+    },
+    "chicken tikka": {
+        "average_rating": 4.388888888888889,
+        "average_ai_rating": 80.81666666666666,
+        "review_count": 36
+    },
+    "premium veggie": {
+        "average_rating": 4.166666666666667,
+        "average_ai_rating": 77.93333333333334,
+        "review_count": 6
+    },
+    "chilli paneer": {
+        "average_rating": 4.363636363636363,
+        "average_ai_rating": 77.12727272727273,
+        "review_count": 22
+    },
+    "achari wings": {
+        "average_rating": 4.444444444444445,
+        "average_ai_rating": 77.04444444444445,
+        "review_count": 9
+    },
+    "achari chicken": {
+        "average_rating": 4.333333333333333,
+        "average_ai_rating": 75.66666666666667,
+        "review_count": 6
+    },
+    "curry veggie delight": {
+        "average_rating": 4,
+        "average_ai_rating": 75.10000000000001,
+        "review_count": 8
+    },
+    "butter chicken": {
+        "average_rating": 4.125,
+        "average_ai_rating": 74.05,
+        "review_count": 48
+    },
+    "curry chicken masala": {
+        "average_rating": 4,
+        "average_ai_rating": 71.82222222222222,
+        "review_count": 9
+    },
+    "palak paneer": {
+        "average_rating": 4,
+        "average_ai_rating": 67.4857142857143,
+        "review_count": 7
+    },
+    "cheese pizza": {
+        "average_rating": 3.5714285714285716,
+        "average_ai_rating": 67.17142857142858,
+        "review_count": 7
+    },
+    "shahi paneer": {
+        "average_rating": 4.166666666666667,
+        "average_ai_rating": 67.15,
+        "review_count": 12
+    }
+}
