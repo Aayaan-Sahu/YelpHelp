@@ -1,10 +1,9 @@
 export default function Footer() {
   return (
     <div className="w-full h-16 fixed left-0 bottom-0 flex justify-center items-center">
-    {/* <div className="w-full h-16 bg-indigo-600 fixed left-0 bottom-0 flex justify-center items-center"> */}
       <div className="flex flex-row items-center justify-center">
-        <a
-          // className="mr-1 fill-current h-6 w-6 text-sm text-gray-200 transition hover:text-blue-500 dark:hover:text-blue-400"
+
+        {/* <a
           className="mr-1 fill-current h-6 w-6 text-sm text-gray-500 transition hover:text-blue-500 dark:hover:text-blue-400"
           rel="noopener noreferrer"
           target="_blank"
@@ -14,13 +13,16 @@ export default function Footer() {
             <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z" />
             <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
           </svg>
-        </a>
+        </a> */}
+
+
+
         <a
           // className="ml-1 fill-current h-6 w-6 text-sm text-gray-200 transition hover:text-blue-500 dark:hover:text-blue-400"
           className="ml-1 fill-current h-6 w-6 text-sm text-gray-500 transition hover:text-blue-500 dark:hover:text-blue-400"
           rel="noopener noreferrer"
           target="_blank"
-          href="https://github.com/Aayaan-Sahu/"
+          href="https://github.com/Aayaan-Sahu/YelpHelp"
         >
           <svg
             role="img"

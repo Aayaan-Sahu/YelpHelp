@@ -24,7 +24,6 @@ export const getAllRestaurants = (): RestaurantData[] => {
 }
 
 export const getRestaurantData = (slug: string): RestaurantData => {
-    // read from the json file associated with the slug and store it in the data field of the RestaurantData object
     const restaurantPath = path.join(RESTAURANT_PATH, `${slug}.json`);
     const data = fs.readFileSync(restaurantPath, "utf-8"); 
     return {
@@ -44,4 +43,10 @@ export const getAllRestaurantData = (): RestaurantData[] => {
     const restaurantData = getRestaurantSlugs()
         .map((slug) => getRestaurantData(slug));
     return restaurantData;
+}
+
+export const getRestaurantNameFromSlug = (slug: string): string => {
+    return slug.split("_")
+        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+        .join(" ");
 }

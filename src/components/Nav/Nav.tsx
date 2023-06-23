@@ -55,25 +55,10 @@ export default function Nav({ mounted }: { mounted: boolean }) {
             style={{ cursor: "pointer" }}
             className="uppercase font-semibold pr-4 border-indigo-300 flex-1"
           >
-            YelpHelp
+            Yelp Help
           </p>
         </Link>
-        <Link href="/search" passHref>
-          <p
-            style={{ cursor: "pointer" }}
-            className="uppercase font-semibold pr-4 border-indigo-300"
-          >
-            SEARCH
-          </p>
-        </Link>
-        <Link href="/tags" passHref>
-          <p
-            style={{ cursor: "pointer" }}
-            className="uppercase font-semibold pr-4 border-indigo-300"
-          >
-            Tags
-          </p>
-        </Link>
+
         <Link href="/links" passHref>
           <p
             style={{ cursor: "pointer" }}

@@ -1,0 +1,57 @@
+{
+    "torta": {
+        "average_rating": 4.291666666666667,
+        "average_ai_rating": 80.01666666666667,
+        "review_count": 24
+    },
+    "super nachos": {
+        "average_rating": 4,
+        "average_ai_rating": 77.75,
+        "review_count": 8
+    },
+    "low carb plate": {
+        "average_rating": 4,
+        "average_ai_rating": 76.06666666666666,
+        "review_count": 6
+    },
+    "churros": {
+        "average_rating": 4.111111111111111,
+        "average_ai_rating": 75.4888888888889,
+        "review_count": 9
+    },
+    "chilaquiles": {
+        "average_rating": 4.05,
+        "average_ai_rating": 73.72,
+        "review_count": 40
+    },
+    "torta cubana": {
+        "average_rating": 3.888888888888889,
+        "average_ai_rating": 71.42222222222222,
+        "review_count": 9
+    },
+    "fajitas": {
+        "average_rating": 3.7142857142857144,
+        "average_ai_rating": 66.14285714285714,
+        "review_count": 56
+    },
+    "breakfast burrito": {
+        "average_rating": 3.4324324324324325,
+        "average_ai_rating": 58.027027027027025,
+        "review_count": 37
+    },
+    "taco salad": {
+        "average_rating": 3.375,
+        "average_ai_rating": 53.9375,
+        "review_count": 16
+    },
+    "menudo": {
+        "average_rating": 2.8,
+        "average_ai_rating": 42.76,
+        "review_count": 10
+    },
+    "camarones a la diabla": {
+        "average_rating": 2.4,
+        "average_ai_rating": 32.4,
+        "review_count": 5
+    }
+}
