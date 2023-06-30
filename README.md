@@ -1,3 +1,9 @@
+# Link to Google Colab File for initial data collection file
+[Colab File](https://colab.research.google.com/drive/1evKFo3Yi_5zqdDiPacE09SihK6B6OWPK?usp=sharing)
+
+# How does this work?
+The first step is data collection, in which a colab file is run to scrape yelp reviews and output a json file that determines the sentiment for each menu item for a restaurant. That json file is stored within a directory of the website, which is read and displayed on the website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
