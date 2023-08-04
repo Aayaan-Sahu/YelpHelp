@@ -59,6 +59,24 @@ export default function Nav({ mounted }: { mounted: boolean }) {
           </p>
         </Link>
 
+        <Link href="/input" passHref>
+          <p
+            style={{ cursor: "pointer" }}
+            className="uppercase font-semibold pr-4 border-indigo-300"
+          >
+            INPUT
+          </p>
+        </Link>
+
+        <Link href="/description" passHref>
+          <p
+            style={{ cursor: "pointer" }}
+            className="uppercase font-semibold pr-4 border-indigo-300"
+          >
+            DESCRIPTION
+          </p>
+        </Link>
+
         <Link href="/links" passHref>
           <p
             style={{ cursor: "pointer" }}
@@ -67,6 +85,7 @@ export default function Nav({ mounted }: { mounted: boolean }) {
             LINKS
           </p>
         </Link>
+
         {renderThemeChanger({ systemTheme, theme, setTheme, mounted })}
       </div>
     </>
